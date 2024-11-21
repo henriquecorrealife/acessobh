@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   min-height: 100vh;
   padding: auto;
-  background-image: url("https://raw.githubusercontent.com/henriquecorrealife/acessobh/refs/heads/main/acessobh/acessobh/ACESSOBH/imgens/BGBH.jpg");
+  background-image: url (https://raw.githubusercontent.com/henriquecorrealife/acessobh/refs/heads/main/acessobh/acessobh/ACESSOBH/imgens/BGBH.jpg");
   background-color: #f4f4f4;
   display: flex;
   flex-direction: column;
@@ -68,7 +68,7 @@ header h1 {
   margin-left: auto;
   margin-right: auto;
 }
-
+    
 #filters button,
 #buttonEnvio {
   padding: 10px 20px;
